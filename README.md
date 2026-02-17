@@ -76,11 +76,11 @@ Place your wiring image in the repository and reference it like this:
 Or if inside a folder:
 
 ```markdown
-![Wiring Diagram](docs/wiring_diagram.png)
+![Wiring Diagram](./wiring.png)
 ```
-
+![Wiring Diagram](./wiring.png)
 ---
-
+![Wiring Diagram](./wiring.png)
 ## Software Behavior
 
 ### Initialization
