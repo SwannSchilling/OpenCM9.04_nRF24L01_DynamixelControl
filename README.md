@@ -66,8 +66,9 @@ This is a simple incremental position control example.
 ---
 
 ## Wiring Diagram
-![Wiring Diagram](./wiring.png)
-<img src="wiring.png" alt="Wiring Diagram" width="50%">
+
+<img src="wiring.png" alt="Wiring Diagram" width="75%">
+
 ---
 
 ## Software Behavior
