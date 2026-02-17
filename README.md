@@ -66,21 +66,10 @@ This is a simple incremental position control example.
 ---
 
 ## Wiring Diagram
-
-Place your wiring image in the repository and reference it like this:
-
-```markdown
-![Wiring Diagram](wiring.png)
-```
-
-Or if inside a folder:
-
-```markdown
 ![Wiring Diagram](./wiring.png)
-```
-![Wiring Diagram](./wiring.png)
+<img src="wiring.png" alt="Wiring Diagram" width="50%">
 ---
-![Wiring Diagram](./wiring.png)
+
 ## Software Behavior
 
 ### Initialization
